@@ -1,0 +1,515 @@
+# Created at 2021-08-14T23:09:31.265
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2021-08-14T23:09:31.854
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnNumricPassword(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T23:09:31.856
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-first-name
+
+
+# Created at 2021-08-14T23:09:31.880
+Unexpected IOException with stream: Found Element By : By.id: register-form-first-name
+
+
+# Created at 2021-08-14T23:09:31.887
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-first-name
+
+
+# Created at 2021-08-14T23:09:31.908
+Unexpected IOException with stream: Found Element By : By.id: register-form-first-name
+
+
+# Created at 2021-08-14T23:09:31.925
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-first-name
+
+
+# Created at 2021-08-14T23:09:31.940
+Unexpected IOException with stream: Found Element By : By.id: register-form-first-name
+
+
+# Created at 2021-08-14T23:09:31.977
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-email
+
+
+# Created at 2021-08-14T23:09:31.983
+Unexpected IOException with stream: Found Element By : By.id: register-form-email
+
+
+# Created at 2021-08-14T23:09:31.991
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-email
+
+
+# Created at 2021-08-14T23:09:31.999
+Unexpected IOException with stream: Found Element By : By.id: register-form-email
+
+
+# Created at 2021-08-14T23:09:32.016
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-email
+
+
+# Created at 2021-08-14T23:09:32.031
+Unexpected IOException with stream: Found Element By : By.id: register-form-email
+
+
+# Created at 2021-08-14T23:09:32.091
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-password
+
+
+# Created at 2021-08-14T23:09:32.113
+Unexpected IOException with stream: Found Element By : By.id: register-form-password
+
+
+# Created at 2021-08-14T23:09:32.124
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-password
+
+
+# Created at 2021-08-14T23:09:32.144
+Unexpected IOException with stream: Found Element By : By.id: register-form-password
+
+
+# Created at 2021-08-14T23:09:32.167
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-password
+
+
+# Created at 2021-08-14T23:09:32.191
+Unexpected IOException with stream: Found Element By : By.id: register-form-password
+
+
+# Created at 2021-08-14T23:09:32.229
+Unexpected IOException with stream: Trying to Find Element By : By.name: agreement
+
+
+# Created at 2021-08-14T23:09:32.252
+Unexpected IOException with stream: Found Element By : By.name: agreement
+
+
+# Created at 2021-08-14T23:09:32.258
+Unexpected IOException with stream: Trying to Find Element By : By.name: agreement
+
+
+# Created at 2021-08-14T23:09:32.266
+Unexpected IOException with stream: Found Element By : By.name: agreement
+
+
+# Created at 2021-08-14T23:09:32.271
+Unexpected IOException with stream: true
+
+# Created at 2021-08-14T23:09:32.272
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T23:09:32.272
+Unexpected IOException with stream: Trying to Find Element By : By.name: agreement
+
+
+# Created at 2021-08-14T23:09:32.283
+Unexpected IOException with stream: Found Element By : By.name: agreement
+
+
+# Created at 2021-08-14T23:09:32.289
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-submit
+
+
+# Created at 2021-08-14T23:09:32.299
+Unexpected IOException with stream: Found Element By : By.id: register-form-submit
+
+
+# Created at 2021-08-14T23:09:32.307
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-submit
+
+
+# Created at 2021-08-14T23:09:32.316
+Unexpected IOException with stream: Found Element By : By.id: register-form-submit
+
+
+# Created at 2021-08-14T23:09:32.323
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-submit
+
+
+# Created at 2021-08-14T23:09:32.331
+Unexpected IOException with stream: Found Element By : By.id: register-form-submit
+
+
+# Created at 2021-08-14T23:09:32.331
+Unexpected IOException with stream: Trying to Click On: [[ChromeDriver: chrome on XP (60501d2d11752e5c26ed8ac3b8cdc105)] -> id: register-form-submit]
+
+
+# Created at 2021-08-14T23:09:33.808
+Unexpected IOException with stream: Clicked On: [[ChromeDriver: chrome on XP (60501d2d11752e5c26ed8ac3b8cdc105)] -> id: register-form-submit]
+
+
+# Created at 2021-08-14T23:09:33.808
+Unexpected IOException with stream: Trying to Find Element By : By.xpath: //div[@class='alert alert-danger fade in alert-dismissable']
+
+
+# Created at 2021-08-14T23:09:33.849
+Unexpected IOException with stream: Found Element By : By.xpath: //div[@class='alert alert-danger fade in alert-dismissable']
+
+
+# Created at 2021-08-14T23:09:33.862
+Unexpected IOException with stream: Trying to Find Element By : By.xpath: //div[@class='alert alert-danger fade in alert-dismissable']
+
+
+# Created at 2021-08-14T23:09:33.880
+Unexpected IOException with stream: Found Element By : By.xpath: //div[@class='alert alert-danger fade in alert-dismissable']
+
+
+# Created at 2021-08-14T23:09:33.895
+Unexpected IOException with stream: [×
+Oh snap! The g-recaptcha-response field is required.]
+
+# Created at 2021-08-14T23:09:33.896
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T23:09:33.896
+Unexpected IOException: 6,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnNumricPassword(com.bookkeeper.testCases.RegisterTest),null,null,null
+
+
+# Created at 2021-08-14T23:09:33.897
+Unexpected IOException with stream: [TestResult name=verifyErrorOnNumricPassword status=SUCCESS method=RegisterTest.verifyErrorOnNumricPassword(java.lang.reflect.Method)[pri:10, instance:com.bookkeeper.testCases.RegisterTest@23e028a9] output={null}]
+
+# Created at 2021-08-14T23:09:33.897
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T23:09:38.914
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnOnlyAlphabeticCharPassword(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T23:09:38.914
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-first-name
+
+
+# Created at 2021-08-14T23:09:38.935
+Unexpected IOException with stream: Found Element By : By.id: register-form-first-name
+
+
+# Created at 2021-08-14T23:09:38.951
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-first-name
+
+
+# Created at 2021-08-14T23:09:38.969
+Unexpected IOException with stream: Found Element By : By.id: register-form-first-name
+
+
+# Created at 2021-08-14T23:09:38.995
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-first-name
+
+
+# Created at 2021-08-14T23:09:39.015
+Unexpected IOException with stream: Found Element By : By.id: register-form-first-name
+
+
+# Created at 2021-08-14T23:09:39.072
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-email
+
+
+# Created at 2021-08-14T23:09:39.096
+Unexpected IOException with stream: Found Element By : By.id: register-form-email
+
+
+# Created at 2021-08-14T23:09:39.107
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-email
+
+
+# Created at 2021-08-14T23:09:39.125
+Unexpected IOException with stream: Found Element By : By.id: register-form-email
+
+
+# Created at 2021-08-14T23:09:39.161
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-email
+
+
+# Created at 2021-08-14T23:09:39.179
+Unexpected IOException with stream: Found Element By : By.id: register-form-email
+
+
+# Created at 2021-08-14T23:09:39.442
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-password
+
+
+# Created at 2021-08-14T23:09:39.460
+Unexpected IOException with stream: Found Element By : By.id: register-form-password
+
+
+# Created at 2021-08-14T23:09:39.472
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-password
+
+
+# Created at 2021-08-14T23:09:39.492
+Unexpected IOException with stream: Found Element By : By.id: register-form-password
+
+
+# Created at 2021-08-14T23:09:39.513
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-password
+
+
+# Created at 2021-08-14T23:09:39.531
+Unexpected IOException with stream: Found Element By : By.id: register-form-password
+
+
+# Created at 2021-08-14T23:09:39.698
+Unexpected IOException with stream: Trying to Find Element By : By.name: agreement
+
+
+# Created at 2021-08-14T23:09:39.734
+Unexpected IOException with stream: Found Element By : By.name: agreement
+
+
+# Created at 2021-08-14T23:09:39.788
+Unexpected IOException with stream: Trying to Find Element By : By.name: agreement
+
+
+# Created at 2021-08-14T23:09:39.813
+Unexpected IOException with stream: Found Element By : By.name: agreement
+
+
+# Created at 2021-08-14T23:09:39.829
+Unexpected IOException with stream: true
+
+# Created at 2021-08-14T23:09:39.829
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T23:09:39.829
+Unexpected IOException with stream: Trying to Find Element By : By.name: agreement
+
+
+# Created at 2021-08-14T23:09:39.852
+Unexpected IOException with stream: Found Element By : By.name: agreement
+
+
+# Created at 2021-08-14T23:09:39.859
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-submit
+
+
+# Created at 2021-08-14T23:09:39.865
+Unexpected IOException with stream: Found Element By : By.id: register-form-submit
+
+
+# Created at 2021-08-14T23:09:39.881
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-submit
+
+
+# Created at 2021-08-14T23:09:39.897
+Unexpected IOException with stream: Found Element By : By.id: register-form-submit
+
+
+# Created at 2021-08-14T23:09:39.910
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-submit
+
+
+# Created at 2021-08-14T23:09:39.930
+Unexpected IOException with stream: Found Element By : By.id: register-form-submit
+
+
+# Created at 2021-08-14T23:09:39.930
+Unexpected IOException with stream: Trying to Click On: [[ChromeDriver: chrome on XP (60501d2d11752e5c26ed8ac3b8cdc105)] -> id: register-form-submit]
+
+
+# Created at 2021-08-14T23:09:41.491
+Unexpected IOException with stream: Clicked On: [[ChromeDriver: chrome on XP (60501d2d11752e5c26ed8ac3b8cdc105)] -> id: register-form-submit]
+
+
+# Created at 2021-08-14T23:09:41.491
+Unexpected IOException with stream: Trying to Find Element By : By.xpath: //div[@class='alert alert-danger fade in alert-dismissable']
+
+
+# Created at 2021-08-14T23:09:41.521
+Unexpected IOException with stream: Found Element By : By.xpath: //div[@class='alert alert-danger fade in alert-dismissable']
+
+
+# Created at 2021-08-14T23:09:41.531
+Unexpected IOException with stream: Trying to Find Element By : By.xpath: //div[@class='alert alert-danger fade in alert-dismissable']
+
+
+# Created at 2021-08-14T23:09:41.555
+Unexpected IOException with stream: Found Element By : By.xpath: //div[@class='alert alert-danger fade in alert-dismissable']
+
+
+# Created at 2021-08-14T23:09:41.574
+Unexpected IOException with stream: [×
+Oh snap! The g-recaptcha-response field is required.]
+
+# Created at 2021-08-14T23:09:41.574
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T23:09:41.574
+Unexpected IOException: 6,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnOnlyAlphabeticCharPassword(com.bookkeeper.testCases.RegisterTest),null,null,null
+
+
+# Created at 2021-08-14T23:09:41.575
+Unexpected IOException with stream: [TestResult name=verifyErrorOnOnlyAlphabeticCharPassword status=SUCCESS method=RegisterTest.verifyErrorOnOnlyAlphabeticCharPassword(java.lang.reflect.Method)[pri:11, instance:com.bookkeeper.testCases.RegisterTest@23e028a9] output={null}]
+
+# Created at 2021-08-14T23:09:41.575
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T23:09:46.582
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnOnlySplCharPassword(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T23:09:46.583
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-first-name
+
+
+# Created at 2021-08-14T23:09:46.604
+Unexpected IOException with stream: Found Element By : By.id: register-form-first-name
+
+
+# Created at 2021-08-14T23:09:46.614
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-first-name
+
+
+# Created at 2021-08-14T23:09:46.634
+Unexpected IOException with stream: Found Element By : By.id: register-form-first-name
+
+
+# Created at 2021-08-14T23:09:46.656
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-first-name
+
+
+# Created at 2021-08-14T23:09:46.666
+Unexpected IOException with stream: Found Element By : By.id: register-form-first-name
+
+
+# Created at 2021-08-14T23:09:46.711
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-email
+
+
+# Created at 2021-08-14T23:09:46.727
+Unexpected IOException with stream: Found Element By : By.id: register-form-email
+
+
+# Created at 2021-08-14T23:09:46.736
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-email
+
+
+# Created at 2021-08-14T23:09:46.758
+Unexpected IOException with stream: Found Element By : By.id: register-form-email
+
+
+# Created at 2021-08-14T23:09:46.779
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-email
+
+
+# Created at 2021-08-14T23:09:46.790
+Unexpected IOException with stream: Found Element By : By.id: register-form-email
+
+
+# Created at 2021-08-14T23:09:46.856
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-password
+
+
+# Created at 2021-08-14T23:09:46.869
+Unexpected IOException with stream: Found Element By : By.id: register-form-password
+
+
+# Created at 2021-08-14T23:09:46.878
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-password
+
+
+# Created at 2021-08-14T23:09:46.886
+Unexpected IOException with stream: Found Element By : By.id: register-form-password
+
+
+# Created at 2021-08-14T23:09:46.910
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-password
+
+
+# Created at 2021-08-14T23:09:46.925
+Unexpected IOException with stream: Found Element By : By.id: register-form-password
+
+
+# Created at 2021-08-14T23:09:47.010
+Unexpected IOException with stream: Trying to Find Element By : By.name: agreement
+
+
+# Created at 2021-08-14T23:09:47.031
+Unexpected IOException with stream: Found Element By : By.name: agreement
+
+
+# Created at 2021-08-14T23:09:47.044
+Unexpected IOException with stream: Trying to Find Element By : By.name: agreement
+
+
+# Created at 2021-08-14T23:09:47.060
+Unexpected IOException with stream: Found Element By : By.name: agreement
+
+
+# Created at 2021-08-14T23:09:47.074
+Unexpected IOException with stream: true
+
+# Created at 2021-08-14T23:09:47.074
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T23:09:47.074
+Unexpected IOException with stream: Trying to Find Element By : By.name: agreement
+
+
+# Created at 2021-08-14T23:09:47.092
+Unexpected IOException with stream: Found Element By : By.name: agreement
+
+
+# Created at 2021-08-14T23:09:47.104
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-submit
+
+
+# Created at 2021-08-14T23:09:47.125
+Unexpected IOException with stream: Found Element By : By.id: register-form-submit
+
+
+# Created at 2021-08-14T23:09:47.141
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-submit
+
+
+# Created at 2021-08-14T23:09:47.157
+Unexpected IOException with stream: Found Element By : By.id: register-form-submit
+
+
+# Created at 2021-08-14T23:09:47.170
+Unexpected IOException with stream: Trying to Find Element By : By.id: register-form-submit
+
+
+# Created at 2021-08-14T23:09:47.191
+Unexpected IOException with stream: Found Element By : By.id: register-form-submit
+
+
+# Created at 2021-08-14T23:09:47.191
+Unexpected IOException with stream: Trying to Click On: [[ChromeDriver: chrome on XP (60501d2d11752e5c26ed8ac3b8cdc105)] -> id: register-form-submit]
+
+
+# Created at 2021-08-14T23:09:48.741
+Unexpected IOException with stream: Clicked On: [[ChromeDriver: chrome on XP (60501d2d11752e5c26ed8ac3b8cdc105)] -> id: register-form-submit]
+
+
+# Created at 2021-08-14T23:09:48.741
+Unexpected IOException with stream: Trying to Find Element By : By.xpath: //div[@class='alert alert-danger fade in alert-dismissable']
+
+
+# Created at 2021-08-14T23:09:48.764
+Unexpected IOException with stream: Found Element By : By.xpath: //div[@class='alert alert-danger fade in alert-dismissable']
+
+
+# Created at 2021-08-14T23:10:04.283
+Unexpected IOException: 8,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnOnlySplCharPassword(com.bookkeeper.testCases.RegisterTest),null,Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (60501d2d11752e5c26ed8ac3b8cdc105)] -> xpath: //div[@class='alert alert-danger fade in alert-dismissable']] (tried for 15 second(s) with 500 milliseconds interval)\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.support.events.EventFiringWebDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6...\002C userDataDir: C:\005CUsers\005Cmrman\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 92.0.4515.131\002C webStorageEnabled: true}\000ASession ID: 60501d2d11752e5c26ed8ac3b8cdc105,null,Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (60501d2d11752e5c26ed8ac3b8cdc105)] -> xpath: //div[@class='alert alert-danger fade in alert-dismissable']] (tried for 15 second(s) with 500 milliseconds interval)\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.support.events.EventFiringWebDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6...\002C userDataDir: C:\005CUsers\005Cmrman\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 92.0.4515.131\002C webStorageEnabled: true}\000ASession ID: 60501d2d11752e5c26ed8ac3b8cdc105,RegisterTest.verifyErrorOnOnlySplCharPassword:207 \00BB Timeout Expected condition...,org.openqa.selenium.TimeoutException: \000AExpected condition failed: waiting for visibility of [[ChromeDriver: chrome on XP (60501d2d11752e5c26ed8ac3b8cdc105)] -> xpath: //div[@class='alert alert-danger fade in alert-dismissable']] (tried for 15 second(s) with 500 milliseconds interval)\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.support.events.EventFiringWebDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6...\002C userDataDir: C:\005CUsers\005Cmrman\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 92.0.4515.131\002C webStorageEnabled: true}\000ASession ID: 60501d2d11752e5c26ed8ac3b8cdc105\000A\0009at com.bookkeeper.testCases.RegisterTest.verifyErrorOnOnlySplCharPassword(RegisterTest.java:207)\000A
+
+
+# Created at 2021-08-14T23:10:04.284
+Unexpected IOException with stream: [TestResult name=verifyErrorOnOnlySplCharPassword status=FAILURE method=RegisterTest.verifyErrorOnOnlySplCharPassword(java.lang.reflect.Method)[pri:12, instance:com.bookkeeper.testCases.RegisterTest@23e028a9] output={null}]
+
+# Created at 2021-08-14T23:10:04.284
+Unexpected IOException with stream: 
+
+

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Tests]">
+  <test thread-count="5" verbose="0" name="Test1(failed)">
+    <classes>
+      <class name="com.bookkeeper.testCases.HomepageTest">
+        <methods>
+          <include name="verifyDropdownOptionsDisplayed"/>
+          <include name="endReport"/>
+          <include name="setUp"/>
+          <include name="setLog4j"/>
+          <include name="verifyAllDropdownOptionsDisplayed"/>
+          <include name="verifyPageTitle"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.bookkeeper.testCases.HomepageTest -->
+      <class name="com.bookkeeper.testCases.CustomerDashboardTest">
+        <methods>
+          <include name="endReport"/>
+          <include name="verifySideNavOptions"/>
+          <include name="setUp"/>
+          <include name="setLog4j"/>
+          <include name="verifyUserIsAbleToNavigateToPayments"/>
+          <include name="verifyUserIsAbleToNavigateToInvoices"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.bookkeeper.testCases.CustomerDashboardTest -->
+      <class name="com.bookkeeper.testCases.ManagerDashboardTest">
+        <methods>
+          <include name="endReport"/>
+          <include name="verifySideNavOptions"/>
+          <include name="setLog4j"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="verifyUserIsAbleToPerformLogout"/>
+        </methods>
+      </class> <!-- com.bookkeeper.testCases.ManagerDashboardTest -->
+      <class name="com.bookkeeper.testCases.LoginTest">
+        <methods>
+          <include name="endReport"/>
+          <include name="setUp"/>
+          <include name="setLog4j"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="verifyPageTitle"/>
+        </methods>
+      </class> <!-- com.bookkeeper.testCases.LoginTest -->
+      <class name="com.bookkeeper.testCases.RegisterTest">
+        <methods>
+          <include name="endReport"/>
+          <include name="verifyPageTitle"/>
+          <include name="setLog4j"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.bookkeeper.testCases.RegisterTest -->
+      <class name="com.bookkeeper.testCases.BookkeeperDashboardTest">
+        <methods>
+          <include name="endReport"/>
+          <include name="verifyAvailableRoles"/>
+          <include name="verifyLogOut"/>
+          <include name="setLog4j"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.bookkeeper.testCases.BookkeeperDashboardTest -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Tests] -->

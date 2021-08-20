@@ -1,0 +1,174 @@
+# Created at 2021-08-14T22:44:58.809
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2021-08-14T22:45:02.914
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnBlankSpaceInName(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:45:04.488
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnBlankSpaceInName(com.bookkeeper.testCases.RegisterTest),null,timeout\000A  (Session info: chrome=92.0.4515.131)\000A  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002Cplatform=Windows NT 10.0.19042 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6...\002C userDataDir: C:\005CUsers\005Cmrman\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 92.0.4515.131\002C webStorageEnabled: true}\000ASession ID: 135efb20b649baa0c6cd159980889ece\000A*** Element info: {Using=xpath\002C value=//div[@id='top-account']/a},null
+
+
+# Created at 2021-08-14T22:45:04.489
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnBlankSpaceInName(java.lang.reflect.Method)[pri:3, instance:com.bookkeeper.testCases.RegisterTest@6536e911] output={null}]
+
+# Created at 2021-08-14T22:45:04.490
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T22:45:09.503
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnlyNumricInName(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:45:09.504
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnlyNumricInName(com.bookkeeper.testCases.RegisterTest),null,timeout\000A  (Session info: chrome=92.0.4515.131)\000A  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002Cplatform=Windows NT 10.0.19042 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6...\002C userDataDir: C:\005CUsers\005Cmrman\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 92.0.4515.131\002C webStorageEnabled: true}\000ASession ID: 135efb20b649baa0c6cd159980889ece\000A*** Element info: {Using=xpath\002C value=//div[@id='top-account']/a},null
+
+
+# Created at 2021-08-14T22:45:09.506
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnlyNumricInName(java.lang.reflect.Method)[pri:4, instance:com.bookkeeper.testCases.RegisterTest@6536e911] output={null}]
+
+# Created at 2021-08-14T22:45:09.506
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T22:45:14.520
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnBlankEmail(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:45:14.521
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnBlankEmail(com.bookkeeper.testCases.RegisterTest),null,timeout\000A  (Session info: chrome=92.0.4515.131)\000A  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002Cplatform=Windows NT 10.0.19042 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6...\002C userDataDir: C:\005CUsers\005Cmrman\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 92.0.4515.131\002C webStorageEnabled: true}\000ASession ID: 135efb20b649baa0c6cd159980889ece\000A*** Element info: {Using=xpath\002C value=//div[@id='top-account']/a},null
+
+
+# Created at 2021-08-14T22:45:14.522
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnBlankEmail(java.lang.reflect.Method)[pri:5, instance:com.bookkeeper.testCases.RegisterTest@6536e911] output={null}]
+
+# Created at 2021-08-14T22:45:14.522
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T22:45:19.530
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnBlankSpaceInEmail(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:45:19.531
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnBlankSpaceInEmail(com.bookkeeper.testCases.RegisterTest),null,timeout\000A  (Session info: chrome=92.0.4515.131)\000A  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002Cplatform=Windows NT 10.0.19042 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6...\002C userDataDir: C:\005CUsers\005Cmrman\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 92.0.4515.131\002C webStorageEnabled: true}\000ASession ID: 135efb20b649baa0c6cd159980889ece\000A*** Element info: {Using=xpath\002C value=//div[@id='top-account']/a},null
+
+
+# Created at 2021-08-14T22:45:19.532
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnBlankSpaceInEmail(java.lang.reflect.Method)[pri:6, instance:com.bookkeeper.testCases.RegisterTest@6536e911] output={null}]
+
+# Created at 2021-08-14T22:45:19.533
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T22:45:24.543
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnLessThenFiveCharPwd(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:45:24.544
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnLessThenFiveCharPwd(com.bookkeeper.testCases.RegisterTest),null,timeout\000A  (Session info: chrome=92.0.4515.131)\000A  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002Cplatform=Windows NT 10.0.19042 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6...\002C userDataDir: C:\005CUsers\005Cmrman\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 92.0.4515.131\002C webStorageEnabled: true}\000ASession ID: 135efb20b649baa0c6cd159980889ece\000A*** Element info: {Using=xpath\002C value=//div[@id='top-account']/a},null
+
+
+# Created at 2021-08-14T22:45:24.545
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnLessThenFiveCharPwd(java.lang.reflect.Method)[pri:8, instance:com.bookkeeper.testCases.RegisterTest@6536e911] output={null}]
+
+# Created at 2021-08-14T22:45:24.545
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T22:45:29.550
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnBlankPassword(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:45:29.551
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnBlankPassword(com.bookkeeper.testCases.RegisterTest),null,timeout\000A  (Session info: chrome=92.0.4515.131)\000A  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002Cplatform=Windows NT 10.0.19042 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6...\002C userDataDir: C:\005CUsers\005Cmrman\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 92.0.4515.131\002C webStorageEnabled: true}\000ASession ID: 135efb20b649baa0c6cd159980889ece\000A*** Element info: {Using=xpath\002C value=//div[@id='top-account']/a},null
+
+
+# Created at 2021-08-14T22:45:29.551
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnBlankPassword(java.lang.reflect.Method)[pri:9, instance:com.bookkeeper.testCases.RegisterTest@6536e911] output={null}]
+
+# Created at 2021-08-14T22:45:29.552
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T22:45:34.556
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnNumricPassword(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:45:34.556
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnNumricPassword(com.bookkeeper.testCases.RegisterTest),null,timeout\000A  (Session info: chrome=92.0.4515.131)\000A  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002Cplatform=Windows NT 10.0.19042 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6...\002C userDataDir: C:\005CUsers\005Cmrman\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 92.0.4515.131\002C webStorageEnabled: true}\000ASession ID: 135efb20b649baa0c6cd159980889ece\000A*** Element info: {Using=xpath\002C value=//div[@id='top-account']/a},null
+
+
+# Created at 2021-08-14T22:45:34.557
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnNumricPassword(java.lang.reflect.Method)[pri:10, instance:com.bookkeeper.testCases.RegisterTest@6536e911] output={null}]
+
+# Created at 2021-08-14T22:45:34.558
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T22:45:39.560
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnOnlyAlphabeticCharPassword(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:45:39.561
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnOnlyAlphabeticCharPassword(com.bookkeeper.testCases.RegisterTest),null,timeout\000A  (Session info: chrome=92.0.4515.131)\000A  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002Cplatform=Windows NT 10.0.19042 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6...\002C userDataDir: C:\005CUsers\005Cmrman\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 92.0.4515.131\002C webStorageEnabled: true}\000ASession ID: 135efb20b649baa0c6cd159980889ece\000A*** Element info: {Using=xpath\002C value=//div[@id='top-account']/a},null
+
+
+# Created at 2021-08-14T22:45:39.562
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnOnlyAlphabeticCharPassword(java.lang.reflect.Method)[pri:11, instance:com.bookkeeper.testCases.RegisterTest@6536e911] output={null}]
+
+# Created at 2021-08-14T22:45:39.562
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T22:45:44.567
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnOnlySplCharPassword(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:45:44.568
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnOnlySplCharPassword(com.bookkeeper.testCases.RegisterTest),null,timeout\000A  (Session info: chrome=92.0.4515.131)\000A  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002Cplatform=Windows NT 10.0.19042 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6...\002C userDataDir: C:\005CUsers\005Cmrman\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 92.0.4515.131\002C webStorageEnabled: true}\000ASession ID: 135efb20b649baa0c6cd159980889ece\000A*** Element info: {Using=xpath\002C value=//div[@id='top-account']/a},null
+
+
+# Created at 2021-08-14T22:45:44.570
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnOnlySplCharPassword(java.lang.reflect.Method)[pri:12, instance:com.bookkeeper.testCases.RegisterTest@6536e911] output={null}]
+
+# Created at 2021-08-14T22:45:44.571
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T22:45:49.573
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnUnagreedTerms(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:45:49.574
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnUnagreedTerms(com.bookkeeper.testCases.RegisterTest),null,timeout\000A  (Session info: chrome=92.0.4515.131)\000A  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002Cplatform=Windows NT 10.0.19042 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6...\002C userDataDir: C:\005CUsers\005Cmrman\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 92.0.4515.131\002C webStorageEnabled: true}\000ASession ID: 135efb20b649baa0c6cd159980889ece\000A*** Element info: {Using=xpath\002C value=//div[@id='top-account']/a},null
+
+
+# Created at 2021-08-14T22:45:49.575
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnUnagreedTerms(java.lang.reflect.Method)[pri:13, instance:com.bookkeeper.testCases.RegisterTest@6536e911] output={null}]
+
+# Created at 2021-08-14T22:45:49.575
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T22:45:54.593
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnTestName(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:45:54.593
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnTestName(com.bookkeeper.testCases.RegisterTest),null,timeout\000A  (Session info: chrome=92.0.4515.131)\000A  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002Cplatform=Windows NT 10.0.19042 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C acceptSslCerts: false\002C applicationCacheEnabled: false\002C browserConnectionEnabled: false\002C browserName: chrome\002C chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6...\002C userDataDir: C:\005CUsers\005Cmrman\005CAppData\005CLoca...}\002C cssSelectorsEnabled: true\002C databaseEnabled: false\002C handlesAlerts: true\002C hasTouchScreen: false\002C javascriptEnabled: true\002C locationContextEnabled: true\002C mobileEmulationEnabled: false\002C nativeEvents: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: XP\002C platformName: XP\002C rotatable: false\002C setWindowRect: true\002C takesHeapSnapshot: true\002C takesScreenshot: true\002C unexpectedAlertBehaviour: \002C unhandledPromptBehavior: \002C version: 92.0.4515.131\002C webStorageEnabled: true}\000ASession ID: 135efb20b649baa0c6cd159980889ece\000A*** Element info: {Using=xpath\002C value=//div[@id='top-account']/a},null
+
+
+# Created at 2021-08-14T22:45:54.594
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnTestName(java.lang.reflect.Method)[pri:14, instance:com.bookkeeper.testCases.RegisterTest@6536e911] output={null}]
+
+# Created at 2021-08-14T22:45:54.595
+Unexpected IOException with stream: 
+
+

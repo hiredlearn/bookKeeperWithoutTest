@@ -1,0 +1,129 @@
+# Created at 2021-08-14T22:58:02.444
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2021-08-14T22:58:04.687
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnBlankEmail(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:58:04.689
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnBlankEmail(com.bookkeeper.testCases.RegisterTest),null,Session ID is null. Using WebDriver after calling quit()?\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: driver.version: EventFiringWebDriver,null
+
+
+# Created at 2021-08-14T22:58:04.690
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnBlankEmail(java.lang.reflect.Method)[pri:5, instance:com.bookkeeper.testCases.RegisterTest@3dd4520b] output={null}]
+
+# Created at 2021-08-14T22:58:04.690
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T22:58:09.704
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnBlankSpaceInEmail(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:58:09.704
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnBlankSpaceInEmail(com.bookkeeper.testCases.RegisterTest),null,Session ID is null. Using WebDriver after calling quit()?\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: driver.version: EventFiringWebDriver,null
+
+
+# Created at 2021-08-14T22:58:09.705
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnBlankSpaceInEmail(java.lang.reflect.Method)[pri:6, instance:com.bookkeeper.testCases.RegisterTest@3dd4520b] output={null}]
+
+# Created at 2021-08-14T22:58:09.706
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T22:58:14.709
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnLessThenFiveCharPwd(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:58:14.710
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnLessThenFiveCharPwd(com.bookkeeper.testCases.RegisterTest),null,Session ID is null. Using WebDriver after calling quit()?\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: driver.version: EventFiringWebDriver,null
+
+
+# Created at 2021-08-14T22:58:14.711
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnLessThenFiveCharPwd(java.lang.reflect.Method)[pri:8, instance:com.bookkeeper.testCases.RegisterTest@3dd4520b] output={null}]
+
+# Created at 2021-08-14T22:58:14.712
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T22:58:19.724
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnBlankPassword(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:58:19.726
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnBlankPassword(com.bookkeeper.testCases.RegisterTest),null,Session ID is null. Using WebDriver after calling quit()?\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: driver.version: EventFiringWebDriver,null
+
+
+# Created at 2021-08-14T22:58:19.726
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnBlankPassword(java.lang.reflect.Method)[pri:9, instance:com.bookkeeper.testCases.RegisterTest@3dd4520b] output={null}]
+
+# Created at 2021-08-14T22:58:19.727
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T22:58:24.729
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnNumricPassword(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:58:24.729
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnNumricPassword(com.bookkeeper.testCases.RegisterTest),null,Session ID is null. Using WebDriver after calling quit()?\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: driver.version: EventFiringWebDriver,null
+
+
+# Created at 2021-08-14T22:58:24.730
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnNumricPassword(java.lang.reflect.Method)[pri:10, instance:com.bookkeeper.testCases.RegisterTest@3dd4520b] output={null}]
+
+# Created at 2021-08-14T22:58:24.731
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T22:58:29.742
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnOnlyAlphabeticCharPassword(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:58:29.743
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnOnlyAlphabeticCharPassword(com.bookkeeper.testCases.RegisterTest),null,Session ID is null. Using WebDriver after calling quit()?\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: driver.version: EventFiringWebDriver,null
+
+
+# Created at 2021-08-14T22:58:29.743
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnOnlyAlphabeticCharPassword(java.lang.reflect.Method)[pri:11, instance:com.bookkeeper.testCases.RegisterTest@3dd4520b] output={null}]
+
+# Created at 2021-08-14T22:58:29.744
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T22:58:34.748
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnOnlySplCharPassword(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:58:34.751
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnOnlySplCharPassword(com.bookkeeper.testCases.RegisterTest),null,Session ID is null. Using WebDriver after calling quit()?\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: driver.version: EventFiringWebDriver,null
+
+
+# Created at 2021-08-14T22:58:34.751
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnOnlySplCharPassword(java.lang.reflect.Method)[pri:12, instance:com.bookkeeper.testCases.RegisterTest@3dd4520b] output={null}]
+
+# Created at 2021-08-14T22:58:34.751
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-14T22:58:39.766
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnUnagreedTerms(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-14T22:58:39.766
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyErrorOnUnagreedTerms(com.bookkeeper.testCases.RegisterTest),null,Session ID is null. Using WebDriver after calling quit()?\000ABuild info: version: '3.14.0'\002C revision: 'aacccce0'\002C time: '2018-08-02T20:19:58.91Z'\000ASystem info: host: 'LAPTOP-NQ28SJGQ'\002C ip: '172.21.96.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: driver.version: EventFiringWebDriver,null
+
+
+# Created at 2021-08-14T22:58:39.767
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyErrorOnUnagreedTerms(java.lang.reflect.Method)[pri:13, instance:com.bookkeeper.testCases.RegisterTest@3dd4520b] output={null}]
+
+# Created at 2021-08-14T22:58:39.767
+Unexpected IOException with stream: 
+
+

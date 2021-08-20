@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Tests" verbose="5">
+	<test name="Test1">
+		<classes>
+			<class name="com.bookkeeper.testCases.HomepageTest" />
+			<class name="com.bookkeeper.testCases.RegisterTest" />
+			<class name="com.bookkeeper.testCases.LoginTest" />
+			<class name="com.bookkeeper.testCases.BookkeeperDashboardTest" />
+			<class name="com.bookkeeper.testCases.CustomerDashboardTest" />
+			<class name="com.bookkeeper.testCases.ManagerDashboardTest" />
+		</classes>
+	</test>
+</suite>

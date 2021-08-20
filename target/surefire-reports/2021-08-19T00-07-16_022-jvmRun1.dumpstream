@@ -1,0 +1,177 @@
+# Created at 2021-08-19T00:07:39.154
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2021-08-19T00:07:40.250
+Unexpected IOException: 5,1,com.bookkeeper.testCases.HomepageTest,verifyDropdownOptionsDisplayed(com.bookkeeper.testCases.HomepageTest),com.bookkeeper.testCases.HomepageTest,null,null
+
+
+# Created at 2021-08-19T00:07:40.255
+Unexpected IOException: 9,1,com.bookkeeper.testCases.HomepageTest,verifyDropdownOptionsDisplayed(com.bookkeeper.testCases.HomepageTest),null,null,null
+
+
+# Created at 2021-08-19T00:07:40.257
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=HomepageTest.verifyDropdownOptionsDisplayed(java.lang.reflect.Method)[pri:2, instance:com.bookkeeper.testCases.HomepageTest@65e61854] output={null}]
+
+# Created at 2021-08-19T00:07:40.258
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-19T00:07:45.268
+Unexpected IOException: 5,1,com.bookkeeper.testCases.HomepageTest,verifyAllDropdownOptionsDisplayed(com.bookkeeper.testCases.HomepageTest),com.bookkeeper.testCases.HomepageTest,null,null
+
+
+# Created at 2021-08-19T00:07:45.272
+Unexpected IOException: 9,1,com.bookkeeper.testCases.HomepageTest,verifyAllDropdownOptionsDisplayed(com.bookkeeper.testCases.HomepageTest),null,null,null
+
+
+# Created at 2021-08-19T00:07:45.273
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=HomepageTest.verifyAllDropdownOptionsDisplayed(java.lang.reflect.Method)[pri:3, instance:com.bookkeeper.testCases.HomepageTest@65e61854] output={null}]
+
+# Created at 2021-08-19T00:07:45.274
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-19T00:07:50.291
+Unexpected IOException: 9,1,com.bookkeeper.testCases.HomepageTest,tearDown(com.bookkeeper.testCases.HomepageTest),null,null,null
+
+
+# Created at 2021-08-19T00:07:50.294
+Unexpected IOException with stream: Chrome
+
+
+# Created at 2021-08-19T00:07:50.319
+Unexpected IOException: 8,1,com.bookkeeper.testCases.RegisterTest,setUp(com.bookkeeper.testCases.RegisterTest),null,null,null,null,RegisterTest.setUp:31->TestBase.initialization:101 \00BB NullPointer,java.lang.NullPointerException\000A\0009at com.bookkeeper.testCases.RegisterTest.setUp(RegisterTest.java:31)\000A
+
+
+# Created at 2021-08-19T00:07:50.328
+Unexpected IOException: 5,1,com.bookkeeper.testCases.RegisterTest,verifyPageTitle(com.bookkeeper.testCases.RegisterTest),com.bookkeeper.testCases.RegisterTest,null,null
+
+
+# Created at 2021-08-19T00:07:50.331
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,verifyPageTitle(com.bookkeeper.testCases.RegisterTest),null,null,null
+
+
+# Created at 2021-08-19T00:07:50.334
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=RegisterTest.verifyPageTitle(java.lang.reflect.Method)[pri:1, instance:com.bookkeeper.testCases.RegisterTest@1568159] output={null}]
+
+# Created at 2021-08-19T00:07:50.335
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-19T00:07:55.351
+Unexpected IOException: 9,1,com.bookkeeper.testCases.RegisterTest,tearDown(com.bookkeeper.testCases.RegisterTest),null,null,null
+
+
+# Created at 2021-08-19T00:07:55.353
+Unexpected IOException with stream: Chrome
+
+
+# Created at 2021-08-19T00:07:55.368
+Unexpected IOException: 8,1,com.bookkeeper.testCases.LoginTest,setUp(com.bookkeeper.testCases.LoginTest),null,null,null,null,LoginTest.setUp:30->TestBase.initialization:101 \00BB NullPointer,java.lang.NullPointerException\000A\0009at com.bookkeeper.testCases.LoginTest.setUp(LoginTest.java:30)\000A
+
+
+# Created at 2021-08-19T00:07:55.376
+Unexpected IOException: 5,1,com.bookkeeper.testCases.LoginTest,verifyPageTitle(com.bookkeeper.testCases.LoginTest),com.bookkeeper.testCases.LoginTest,null,null
+
+
+# Created at 2021-08-19T00:07:55.380
+Unexpected IOException: 9,1,com.bookkeeper.testCases.LoginTest,verifyPageTitle(com.bookkeeper.testCases.LoginTest),null,null,null
+
+
+# Created at 2021-08-19T00:07:55.382
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=LoginTest.verifyPageTitle(java.lang.reflect.Method)[pri:1, instance:com.bookkeeper.testCases.LoginTest@4fcee388] output={null}]
+
+# Created at 2021-08-19T00:07:55.383
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-19T00:08:00.396
+Unexpected IOException: 9,1,com.bookkeeper.testCases.LoginTest,tearDown(com.bookkeeper.testCases.LoginTest),null,null,null
+
+
+# Created at 2021-08-19T00:08:00.398
+Unexpected IOException with stream: Chrome
+
+
+# Created at 2021-08-19T00:08:00.418
+Unexpected IOException: 8,1,com.bookkeeper.testCases.BookkeeperDashboardTest,setUp(com.bookkeeper.testCases.BookkeeperDashboardTest),null,null,null,null,BookkeeperDashboardTest.setUp:30->TestBase.initialization:101 \00BB NullPointer,java.lang.NullPointerException\000A\0009at com.bookkeeper.testCases.BookkeeperDashboardTest.setUp(BookkeeperDashboardTest.java:30)\000A
+
+
+# Created at 2021-08-19T00:08:00.426
+Unexpected IOException: 5,1,com.bookkeeper.testCases.BookkeeperDashboardTest,verifyAvailableRoles(com.bookkeeper.testCases.BookkeeperDashboardTest),com.bookkeeper.testCases.BookkeeperDashboardTest,null,null
+
+
+# Created at 2021-08-19T00:08:00.432
+Unexpected IOException: 9,1,com.bookkeeper.testCases.BookkeeperDashboardTest,verifyAvailableRoles(com.bookkeeper.testCases.BookkeeperDashboardTest),null,null,null
+
+
+# Created at 2021-08-19T00:08:00.434
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=BookkeeperDashboardTest.verifyAvailableRoles(java.lang.reflect.Method)[pri:2, instance:com.bookkeeper.testCases.BookkeeperDashboardTest@6f80fafe] output={null}]
+
+# Created at 2021-08-19T00:08:00.435
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-19T00:08:05.448
+Unexpected IOException: 5,1,com.bookkeeper.testCases.BookkeeperDashboardTest,verifyLogOut(com.bookkeeper.testCases.BookkeeperDashboardTest),com.bookkeeper.testCases.BookkeeperDashboardTest,null,null
+
+
+# Created at 2021-08-19T00:08:05.450
+Unexpected IOException: 9,1,com.bookkeeper.testCases.BookkeeperDashboardTest,verifyLogOut(com.bookkeeper.testCases.BookkeeperDashboardTest),null,null,null
+
+
+# Created at 2021-08-19T00:08:05.452
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=BookkeeperDashboardTest.verifyLogOut(java.lang.reflect.Method)[pri:3, instance:com.bookkeeper.testCases.BookkeeperDashboardTest@6f80fafe] output={null}]
+
+# Created at 2021-08-19T00:08:05.453
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-19T00:08:10.471
+Unexpected IOException: 9,1,com.bookkeeper.testCases.BookkeeperDashboardTest,tearDown(com.bookkeeper.testCases.BookkeeperDashboardTest),null,null,null
+
+
+# Created at 2021-08-19T00:08:10.472
+Unexpected IOException with stream: Chrome
+
+
+# Created at 2021-08-19T00:08:10.501
+Unexpected IOException: 8,1,com.bookkeeper.testCases.CustomerDashboardTest,setUp(com.bookkeeper.testCases.CustomerDashboardTest),null,null,null,null,CustomerDashboardTest.setUp:31->TestBase.initialization:101 \00BB NullPointer,java.lang.NullPointerException\000A\0009at com.bookkeeper.testCases.CustomerDashboardTest.setUp(CustomerDashboardTest.java:31)\000A
+
+
+# Created at 2021-08-19T00:08:10.508
+Unexpected IOException: 5,1,com.bookkeeper.testCases.CustomerDashboardTest,verifySideNavOptions(com.bookkeeper.testCases.CustomerDashboardTest),com.bookkeeper.testCases.CustomerDashboardTest,null,null
+
+
+# Created at 2021-08-19T00:08:10.511
+Unexpected IOException: 9,1,com.bookkeeper.testCases.CustomerDashboardTest,verifySideNavOptions(com.bookkeeper.testCases.CustomerDashboardTest),null,null,null
+
+
+# Created at 2021-08-19T00:08:10.512
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=CustomerDashboardTest.verifySideNavOptions(java.lang.reflect.Method)[pri:1, instance:com.bookkeeper.testCases.CustomerDashboardTest@3af17be2] output={null}]
+
+# Created at 2021-08-19T00:08:10.513
+Unexpected IOException with stream: 
+
+
+# Created at 2021-08-19T00:08:15.528
+Unexpected IOException: 5,1,com.bookkeeper.testCases.CustomerDashboardTest,verifyUserIsAbleToNavigateToInvoices(com.bookkeeper.testCases.CustomerDashboardTest),com.bookkeeper.testCases.CustomerDashboardTest,null,null
+
+
+# Created at 2021-08-19T00:08:15.529
+Unexpected IOException: 9,1,com.bookkeeper.testCases.CustomerDashboardTest,verifyUserIsAbleToNavigateToInvoices(com.bookkeeper.testCases.CustomerDashboardTest),null,null,null
+
+
+# Created at 2021-08-19T00:08:15.531
+Unexpected IOException with stream: [TestResult name={null} status=CREATED method=CustomerDashboardTest.verifyUserIsAbleToNavigateToInvoices(java.lang.reflect.Method)[pri:2, instance:com.bookkeeper.testCases.CustomerDashboardTest@3af17be2] output={null}]
+
+# Created at 2021-08-19T00:08:15.531
+Unexpected IOException with stream: 
+
+

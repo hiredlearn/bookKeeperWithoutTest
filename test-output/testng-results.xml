@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40742" started-at="2021-08-18T22:50:24 IST" finished-at="2021-08-18T22:51:05 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40742" started-at="2021-08-18T22:50:24 IST" finished-at="2021-08-18T22:51:05 IST">
+      <class name="com.bookkeeper.testCases.BookkeeperDashboardTest">
+        <test-method status="PASS" signature="setLog4j()[pri:0, instance:com.bookkeeper.testCases.BookkeeperDashboardTest@23a9ba52]" name="setLog4j" is-config="true" duration-ms="274" started-at="2021-08-18T22:50:24 IST" finished-at="2021-08-18T22:50:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setLog4j -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bookkeeper.testCases.BookkeeperDashboardTest@23a9ba52]" name="setUp" is-config="true" duration-ms="12615" started-at="2021-08-18T22:50:25 IST" finished-at="2021-08-18T22:50:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyAvailableRoles(java.lang.reflect.Method)[pri:2, instance:com.bookkeeper.testCases.BookkeeperDashboardTest@23a9ba52]" name="verifyAvailableRoles" duration-ms="22814" started-at="2021-08-18T22:50:37 IST" finished-at="2021-08-18T22:51:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.bookkeeper.testCases.BookkeeperDashboardTest.verifyAvailableRoles(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAvailableRoles -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.bookkeeper.testCases.BookkeeperDashboardTest@23a9ba52]" name="tearDown" is-config="true" duration-ms="5008" started-at="2021-08-18T22:51:00 IST" finished-at="2021-08-18T22:51:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAvailableRoles status=SUCCESS method=BookkeeperDashboardTest.verifyAvailableRoles(java.lang.reflect.Method)[pri:2, instance:com.bookkeeper.testCases.BookkeeperDashboardTest@23a9ba52] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.bookkeeper.testCases.BookkeeperDashboardTest@23a9ba52]" name="endReport" is-config="true" duration-ms="1015" started-at="2021-08-18T22:51:05 IST" finished-at="2021-08-18T22:51:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.bookkeeper.testCases.BookkeeperDashboardTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
